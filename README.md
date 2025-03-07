@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello!
+
+## I am a student at attending Kutztown University of Pennsylvania. My major is Information Technology. I am interested into getting into software development.
 
 <!--
 **kvoll64/kvoll64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
